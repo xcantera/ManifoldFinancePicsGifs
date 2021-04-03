@@ -1,2 +1,2 @@
 # ManifoldFinancePicsGifs
-![] (manifoldgif.gif)
+! [] (manifoldgif.gif)
