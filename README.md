@@ -1,2 +1,2 @@
 # ManifoldFinancePicsGifs
-! [] (manifoldgif.gif)
+! [] (https://github.com/xcantera/ManifoldFinancePicsGifs/blob/main/manifoldgif.gif)
